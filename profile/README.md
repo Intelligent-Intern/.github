@@ -1,4 +1,4 @@
-# intelligent intern - the fastest way to start a business
+# Intelligent Intern - the fastest way to start a business
 
 Intelligent Intern is a software ecosystem powered by AI, where business requirements become tailored, interconnected applications. At its center is a shared core that brings together identities, organizations, data, permissions, and the execution of domain modules. Users describe what their software needs to do, which workflows they require, and how people should collaborate. AI translates these requirements into domain modules and integrates them into the platform. Intelligent Intern combines the speed of vibe coding with an architecture designed for enterprise use: applications share a common foundation, support targeted extensions, and remain manageable throughout their lifecycle.
 
